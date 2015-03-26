@@ -22,7 +22,7 @@ Links Oficiales:
 </ul>
 
 El <a href="http://frontaccounting.hg.sourceforge.net/hgweb/frontaccounting/frontaccounting/">Árbol de código fuente oficial de FrontAccounting</a> usa Mercurial en SourceForge
-y ha sido el oficialmante <a href="http://devel.frontaccounting.com/git/">replicado en Git</a> desde el 16 de abril de 2013 en adelante.
+y ha sido oficialmante <a href="http://devel.frontaccounting.com/git/">replicado en Git</a> desde el 16 de abril de 2013 en adelante.
 
 Advertencias:
 ========
