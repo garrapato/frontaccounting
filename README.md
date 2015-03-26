@@ -1,7 +1,7 @@
 <img src="http://lcbiotecnologia.com.mx/gallery/PayPalAvatarHeader.png"/>
 <br/>
 
-Para mayor informacion visita mi sitio <a href="http://Garrapato.com>Garrapato.com</a>
+Para mayor información visita mi sitio <a href="http://Garrapato.com">Garrapato.com</a>
 <br/>
 
 frontaccounting
