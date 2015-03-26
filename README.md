@@ -21,7 +21,6 @@ Links Oficiales:
 <li>Extensiones: http://anonymous:password@repo.frontaccounting.eu/2.3/</li>
 </ul>
 
-The official <a href="http://frontaccounting.hg.sourceforge.net/hgweb/frontaccounting/frontaccounting/">FrontAccounting Source Tree</a> uses Mercurial on SourceForge 
 El árbol de fuentes oficiales de <a href="http://frontaccounting.hg.sourceforge.net/hgweb/frontaccounting/frontaccounting/">Árbol de código fuente de FrontAccounting Source Tree</a> usa Mercurial en SourceForge
 y ha sido el oficialmante <a href="http://devel.frontaccounting.com/git/">replicado en Git</a> desde el 16 de abril de 2013 en adelante.
 
